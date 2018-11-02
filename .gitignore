@@ -1,0 +1,7 @@
+# White listing
+
+# Block all files
+*
+
+# Negate block for python source code files only
+!*.py
